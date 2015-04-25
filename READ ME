@@ -1,8 +1,0 @@
-/**** LIBRARIES *****/
-
-- Retrofit
-In this project I used the Retrofit library to integrate with the google maps API.
-I could have used AsyncTasks to perform this, but the use of this library makes development faster and has better performance.
-In the link below you can check a comparison between Retrofit, Volley and AsyncTasks and understand why my choice.
-
-http://themakeinfo.com/2015/04/retrofit-android-tutorial/
